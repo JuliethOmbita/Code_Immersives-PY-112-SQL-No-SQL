@@ -1,0 +1,2 @@
+weight1, weight2, weight3, weight4, weight5, weight_final
+15,15,15,15,15,25

@@ -1,0 +1,33 @@
+Yates Forest - 88.33
+Paul Helen - 86.67
+Serot Xavier - 86.67
+Dodd George - 85.0
+Floyd Arnold - 85.0
+Yao Jackie - 85.0
+Williams Martin - 83.33
+James Ray - 81.67
+Rankle Violet - 81.67
+Tatter Jennifer - 81.67
+Zera Paul - 80.83
+Hanks David - 80.0
+Todd Leo - 80.0
+Gino Michelle - 79.17
+Xavier Felix - 77.5
+Pope Lea - 76.67
+Davis Frank - 75.83
+Johnson Jack - 75.83
+Little Joyce - 74.17
+Reece Clara - 74.17
+Kellog Ellen - 73.33
+Oldman Lea - 73.33
+Pierre Frenchie - 72.5
+Rivera Nelson - 71.67
+Tao Sara - 70.83
+Lloyd Oliver - 70.0
+Webb Paris - 70.0
+Hires George - 69.17
+Sax Lola - 66.67
+Sossman Warren - 66.67
+Mean: 77.445
+Mode: 85.0
+Median: 77.08500000000001
